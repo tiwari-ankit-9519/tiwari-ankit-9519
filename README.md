@@ -5,3 +5,8 @@
 </picture>
 
 # 💫 About Me:
+
+A Web Devloper | Data Analyst
+- 💬 Ask me about Technology & Finance
+- 📫 How to reach me: tiwari.ankit3105@gmail.com
+- ⚡ Fun fact: Knowledge is everything.
