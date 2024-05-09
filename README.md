@@ -35,4 +35,7 @@ A Web Devloper | Data Analyst
     <img src="https://github-readme-stats.vercel.app/api?username=tiwari-ankit-9519&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=true" alt="GitHub Stats" style="max-width: 100%;">
 </a>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cbf36572599952f0533639d87a36943aeffd252d826cb3221bef5aab6ccf29eb/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d414e554a4156454e47455253267468656d653d6461726b26686964655f626f726465723d66616c7365"><img src="https://camo.githubusercontent.com/cbf36572599952f0533639d87a36943aeffd252d826cb3221bef5aab6ccf29eb/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d414e554a4156454e47455253267468656d653d6461726b26686964655f626f726465723d66616c7365" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=tiwari-ankit-9519&amp;theme=dark&amp;hide_border=false" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/tiwari-ankit-9519">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwari-ankit-9519&amp;theme=dark&amp;hide_border=false" alt="GitHub Streak Stats" style="max-width: 100%;">
+</a>
+
