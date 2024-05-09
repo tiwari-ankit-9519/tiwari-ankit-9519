@@ -13,6 +13,8 @@ A Web Devloper | Data Analyst
 
 # 🌐 Socials
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://wa.me/9519412446?text=Hello%20there!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/ankittiwari3105/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 
 
 # 💻 Tech Stack
@@ -32,5 +34,6 @@ A Web Devloper | Data Analyst
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats
