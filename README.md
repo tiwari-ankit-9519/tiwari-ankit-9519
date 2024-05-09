@@ -38,4 +38,9 @@ A Web Devloper | Data Analyst
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/tiwari-ankit-9519">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwari-ankit-9519&amp;theme=dark&amp;hide_border=false" alt="GitHub Streak Stats" style="max-width: 100%;">
 </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwari-ankit-9519&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="GitHub Top Languages" style="max-width: 100%;">
+
+# 🔝 Top Contributed Repo
+<img src="https://github-contributor-stats.vercel.app/api?username=tiwari-ankit-9519&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" style="max-width: 100%;">
+
 
