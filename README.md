@@ -25,17 +25,43 @@
 
 ---
 
-### 👨‍💻 <span style="color: #00D9FF">About Me</span>
+#---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+### 🛠️ <span style="color: #bc02e4">Tech Arsenal</span>
 
-```javascript
-const developer = {
-    name: "Ankit Tiwari",
-    location: "Kalyān, Maharashtra, IN",
-    focus: ["Full Stack Development", "Data Analytics"],
-    traits: ["Problem Solver", "Tech Enthusiast", "Fast Learner"],
-    motto: "Knowledge is everything",
-    philosophy: "Code with purpose, analyze with precision"
-};
-Driving innovation through scalable code and data-driven decisions.🛠️ <span style="color: #bc02e4">Tech Arsenal</span><div align="center">Frontend & DesignBackend & DatabaseData ScienceTools & Platforms</div>📊 <span style="color: #00D9FF">GitHub Analytics</span><div align="center"><table><tr><td align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtiwari-ankit-9519%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00D9FF%26icon_color%3Dbc02e4%26text_color%3Dffffff" height="180" alt="stats graph" /></td><td align="center"><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dtiwari-ankit-9519%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117%26ring%3Dbc02e4%26fire%3D00D9FF%26currStreakLabel%3D00D9FF" height="180" alt="streak graph" /></td></tr></table><table><tr><td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwari-ankit-9519&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" height="180" alt="languages graph" /></td><td align="center"><img src="https://github-contributor-stats.vercel.app/api?username=tiwari-ankit-9519&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" height="180" alt="contribution graph" /></td></tr></table><img src="https://www.google.com/search?q=https://github.com/tiwari-ankit-9519/tiwari-ankit-9519/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/></div>🏆 <span style="color: #bc02e4">Achievements</span><div align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dtiwari-ankit-9519%26theme%3Dtokyonight%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D15%26margin-h%3D15%26row%3D1" /></a></div><div align="center"><img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dtiwari-ankit-9519%26color%3D00D9FF%26style%3Dflat-square%26label%3DProfile%2BViews" alt="Profile Views" /><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3Dbc02e4,0077B5,00D9FF%26height%3D100%26section%3Dfooter%26text%3DThanks%2520for%2520visiting!%26fontSize%3D25%26animation%3DfadeIn" width="100%"/></div>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</div>
