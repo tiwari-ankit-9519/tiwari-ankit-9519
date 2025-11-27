@@ -1,128 +1,41 @@
 <div align="center">
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D9FF,0077B5,bc02e4&height=250&section=header&text=Ankit%20Tiwari&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Web%20Developer%20%7C%20Data%20Analyst%20%7C%20Innovator&descAlignY=60&descAlign=50" width="100%"/>
 
-# 👋 Hey there! I'm Ankit Tiwari
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Transforming+Data+into+Insights;Analyzing+with+Precision;Coding+with+Purpose" alt="Typing SVG" />
+</a>
 
-### 🚀 Web Developer | 📊 Data Analyst | 💡 Tech Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Building+Digital+Experiences;Turning+Data+into+Insights;Always+Learning+%26+Growing" alt="Typing SVG" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankittiwari3105/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tiwari.ankit3105@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/9519412446?text=Hello%20Ankit!">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://github.com/tiwari-ankit-9519">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🎯 About Me
+### 👨‍💻 <span style="color: #00D9FF">About Me</span>
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
 ```javascript
-const ankit = {
+const developer = {
+    name: "Ankit Tiwari",
     location: "Kalyān, Maharashtra, IN",
-    roles: ["Web Developer", "Data Analyst"],
-    passions: ["Technology", "Finance", "Innovation"],
+    focus: ["Full Stack Development", "Data Analytics"],
+    traits: ["Problem Solver", "Tech Enthusiast", "Fast Learner"],
     motto: "Knowledge is everything",
-    currentFocus: "Building scalable web apps & data-driven solutions",
-    lifePhilosophy: "Code with purpose, analyze with precision"
+    philosophy: "Code with purpose, analyze with precision"
 };
-```
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎨 Styling & Design
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 📊 Data Science & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiwari-ankit-9519&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwari-ankit-9519&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwari-ankit-9519&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="170"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=tiwari-ankit-9519&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Contributions" height="170"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=tiwari-ankit-9519&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tiwari-ankit-9519&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankittiwari3105/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9519412446?text=Hello%20there!)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwari.ankit3105@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tiwari-ankit-9519)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 📊 Profile Views
-
-![](https://komarev.com/ghpvc/?username=tiwari-ankit-9519&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
-
-**⭐ From [tiwari-ankit-9519](https://github.com/tiwari-ankit-9519) with 💙**
-
-</div>
+Driving innovation through scalable code and data-driven decisions.🛠️ <span style="color: #bc02e4">Tech Arsenal</span><div align="center">Frontend & DesignBackend & DatabaseData ScienceTools & Platforms</div>📊 <span style="color: #00D9FF">GitHub Analytics</span><div align="center"><table><tr><td align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtiwari-ankit-9519%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00D9FF%26icon_color%3Dbc02e4%26text_color%3Dffffff" height="180" alt="stats graph" /></td><td align="center"><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dtiwari-ankit-9519%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117%26ring%3Dbc02e4%26fire%3D00D9FF%26currStreakLabel%3D00D9FF" height="180" alt="streak graph" /></td></tr></table><table><tr><td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwari-ankit-9519&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" height="180" alt="languages graph" /></td><td align="center"><img src="https://github-contributor-stats.vercel.app/api?username=tiwari-ankit-9519&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" height="180" alt="contribution graph" /></td></tr></table><img src="https://www.google.com/search?q=https://github.com/tiwari-ankit-9519/tiwari-ankit-9519/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/></div>🏆 <span style="color: #bc02e4">Achievements</span><div align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dtiwari-ankit-9519%26theme%3Dtokyonight%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D15%26margin-h%3D15%26row%3D1" /></a></div><div align="center"><img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dtiwari-ankit-9519%26color%3D00D9FF%26style%3Dflat-square%26label%3DProfile%2BViews" alt="Profile Views" /><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3Dbc02e4,0077B5,00D9FF%26height%3D100%26section%3Dfooter%26text%3DThanks%2520for%2520visiting!%26fontSize%3D25%26animation%3DfadeIn" width="100%"/></div>
