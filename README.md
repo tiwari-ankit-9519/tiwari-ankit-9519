@@ -1,121 +1,75 @@
-<!-- Modern Glass UI Animated GitHub README -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=32&duration=2500&pause=700&color=00C6FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Ankit+Tiwari;Full-Stack+Developer;MERN+%2B+Next.js+%2B+Prisma;Building+Real+Time+Apps+%26+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=700&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ankit+Tiwari;Full+Stack+Developer;MERN+%7C+Next.js+%7C+Prisma;Building+Real-Time+Systems" />
 </h1>
 
-<br/>
-
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=ankittiwari-dev&theme=nautilus" />
+  <a href="https://github.com/tiwari-ankit-9519">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ankittiwari3105/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tiwari.ankit3105@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/9519412446?text=Hello+Ankit!">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
-<br/>
+---
 
-<div align="center">
+## 🚀 About Me
 
-## 🟦 Glassmorphism About Me
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=150&section=header"/>
+- Full-stack JavaScript developer  
+- Experienced in **Next.js, MERN, Prisma, PostgreSQL, Redis, WebSockets**  
+- Passionate about **real-time systems, scalable architecture, backend engineering**  
+- Love building **fast, modern, cloud-ready applications**
 
-<div style="
-  backdrop-filter: blur(14px);
-  background: rgba(255,255,255,0.10);
-  border-radius: 18px;
-  padding: 25px;
-  width: 80%;
-  margin: auto;
-  border: 1px solid rgba(255,255,255,0.25);
-">
-  
-🌟 Full-stack JavaScript developer  
-🚀 Specialized in **Next.js, Prisma, PostgreSQL, MERN, Redis, WebSockets**  
-🔥 Love building **real-time systems, devtools, scalable backend architecture**
+---
 
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=150&section=footer"/>
-
-</div>
-
-<br/>
-
-## 🧩 Tech Stack (Animated Glass Icons)
+## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=next,react,nodejs,express,mongodb,postgres,redis,prisma,tailwind,js,ts,git,linux,cloudflare&perline=7" />
+  <img src="https://skillicons.dev/icons?i=next,react,nodejs,express,mongodb,postgres,redis,prisma,js,ts,tailwind,git,linux,cloudflare&perline=7" />
 </p>
 
-<br/>
+---
 
-## 🟣 Modern Floating Badges
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-blue?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/ORM-Prisma-2D3748?style=for-the-badge&logo=prisma" />
-  <img src="https://img.shields.io/badge/Realtime-Redis-red?style=for-the-badge&logo=redis" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tiwari-ankit-9519&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=tiwari-ankit-9519&theme=tokyonight&hide_border=true" />
 </p>
 
-<br/>
+---
 
-## 🔥 Modern Stats (Glass + Gradient)
+## 🚀 Featured Projects
+
+### 🔷 Real-Time MERN Chat App
+WhatsApp-like application with sockets, Redis events, read receipts, media messaging.  
+🔗 Repo: *(Add when ready)*
+
+### 🟣 Full Stack Blog Platform  
+Next.js 15 + Prisma, Clerk authentication, Google Docs–style editor, admin panel, categories.  
+🔗 Repo: *(Add when ready)*
+
+### 🟩 School Management System  
+Serverless, monitoring, admissions portal, fees system, scalable student management.  
+🔗 Repo: *(Add when ready)*
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankittiwari-dev&show_icons=true&theme=transparent&title_color=00C6FF&text_color=E0E0E0&icon_color=00C6FF" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ankittiwari-dev&theme=transparent&date_format=j%20M%5B%20Y%5D&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" height="160"/>
+  <a href="https://www.linkedin.com/in/ankittiwari3105/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"></a>
+  <a href="https://github.com/tiwari-ankit-9519"><img src="https://skillicons.dev/icons?i=github" width="45"></a>
+  <a href="mailto:tiwari.ankit3105@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"></a>
 </p>
 
-<br/>
-
-## 🎯 Featured Projects (Glass Cards)
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🔵 Real-Time Chat App  
-Elegant WhatsApp-like app with WebSockets, Redis broadcasting, Prisma + MongoDB.
-
-[🔗 View Repository](#)
-
-</td>
-
-<td align="center" width="50%">
-
-### 🟣 Full Stack Blog System  
-Next.js 15, Prisma, Clerk, Admin Panel, SEO optimized, modern UI.
-
-[🔗 View Repository](#)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-## 🧊 Glass Gradient Divider
-
-<img src="https://github.com/kyechan99/capsule-render/blob/master/src/Type/fill/transparent.svg" width="100%"/>
-
-<br/>
-
-## 🛸 Let's Connect
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" width="50"/></a>
-</p>
-
-<br/>
-
-<h2 align="center">✨ Thanks for visiting ✨</h2>
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
