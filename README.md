@@ -1,150 +1,122 @@
-<!-- HERO SECTION -->
-<div align="center">
+<!-- Modern Glass UI Animated GitHub README -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=00D9FF,0077B5,bc02e4&section=header&text=Ankit%20Tiwari&fontSize=85&fontAlignY=36&animation=twinkling&desc=Web%20Developer%20%7C%20Data%20Analyst%20%7C%20Innovator&descAlignY=60" width="100%" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=32&duration=2500&pause=700&color=00C6FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Ankit+Tiwari;Full-Stack+Developer;MERN+%2B+Next.js+%2B+Prisma;Building+Real+Time+Apps+%26+Systems" />
+</h1>
 
-<!-- Glassy Header Card -->
-<img src="https://github.com/tiwari-ankit-9519/tiwari-ankit-9519/blob/main/assets/glass-card.png" width="0" />
+<br/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2700&pause=800&color=5AC8FA&center=true&vCenter=true&width=600&lines=Crafting+Modern+Web+Experiences;Building+Fast%2C+Scalable+Products;Transforming+Data+Into+Decisions;Coding+With+Precision+%26+Purpose" />
-
-<!-- Glow Social Buttons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ankittiwari3105/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:tiwari.ankit3105@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/9519412446?text=Hello%20Ankit!"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://github.com/tiwari-ankit-9519"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=ankittiwari-dev&theme=nautilus" />
 </p>
 
-</div>
+<br/>
 
----
-
-<!-- GLASS CARD: ABOUT ME -->
 <div align="center">
+
+## 🟦 Glassmorphism About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=150&section=header"/>
+
+<div style="
+  backdrop-filter: blur(14px);
+  background: rgba(255,255,255,0.10);
+  border-radius: 18px;
+  padding: 25px;
+  width: 80%;
+  margin: auto;
+  border: 1px solid rgba(255,255,255,0.25);
+">
   
-<img src="https://raw.githubusercontent.com/rajput-hemant/animated-assets/main/glass/glass-bar.gif" width="100%" />
-
-## ⚡ **About Me**
-> _A passionate developer blending design, logic, and innovation with modern engineering practices._
-
-<div style="padding: 20px; background: rgba(255,255,255,0.08); border-radius: 18px; backdrop-filter: blur(10px); width: 80%; margin: auto;">
-  
-- 🚀 Full-stack Web Developer  
-- 📊 Data Analyst with a love for insights  
-- 🔥 Building scalable MERN + Next.js apps  
-- 💡 Obsessed with clean UI/UX + system design  
-- 🧠 Always learning, always improving  
+🌟 Full-stack JavaScript developer  
+🚀 Specialized in **Next.js, Prisma, PostgreSQL, MERN, Redis, WebSockets**  
+🔥 Love building **real-time systems, devtools, scalable backend architecture**
 
 </div>
 
-<img src="https://raw.githubusercontent.com/rajput-hemant/animated-assets/main/dividers/gradient-line.gif" width="80%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=150&section=footer"/>
 
 </div>
 
----
+<br/>
 
-<!-- SKILLS SECTION -->
-## 🛠️ **Skill Arsenal — Modern Glass Icons**
+## 🧩 Tech Stack (Animated Glass Icons)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=next,react,nodejs,express,mongodb,postgres,redis,prisma,tailwind,js,ts,git,linux,cloudflare&perline=7" />
+</p>
+
+<br/>
+
+## 🟣 Modern Floating Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-blue?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/ORM-Prisma-2D3748?style=for-the-badge&logo=prisma" />
+  <img src="https://img.shields.io/badge/Realtime-Redis-red?style=for-the-badge&logo=redis" />
+</p>
+
+<br/>
+
+## 🔥 Modern Stats (Glass + Gradient)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankittiwari-dev&show_icons=true&theme=transparent&title_color=00C6FF&text_color=E0E0E0&icon_color=00C6FF" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ankittiwari-dev&theme=transparent&date_format=j%20M%5B%20Y%5D&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" height="160"/>
+</p>
+
+<br/>
+
+## 🎯 Featured Projects (Glass Cards)
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rajput-hemant/animated-assets/main/glass/icons-glass.gif" width="400"/>
+<table>
+<tr>
+<td align="center" width="50%">
 
-### **Languages**
-<img src="https://skillicons.dev/icons?i=js,python,java,html,css&theme=light" />
+### 🔵 Real-Time Chat App  
+Elegant WhatsApp-like app with WebSockets, Redis broadcasting, Prisma + MongoDB.
 
-### **Frontend**
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=light" />
+[🔗 View Repository](#)
 
-### **Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" />
+</td>
 
-### **Data & Analytics**
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<td align="center" width="50%">
 
-### **Databases**
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light" />
+### 🟣 Full Stack Blog System  
+Next.js 15, Prisma, Clerk, Admin Panel, SEO optimized, modern UI.
 
-### **Tools**
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=light" />
+[🔗 View Repository](#)
 
-</div>
-
----
-
-<!-- GLASS PROJECT SHOWCASE -->
-## 🚀 **Featured Projects (3D Glass Showcase)**
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rajput-hemant/animated-assets/main/glass/cards-glow.gif" width="450"/>
-
-### 🔹 **Real-Time MERN Chat App**
-Modern WhatsApp-like app with:
-- Sockets  
-- Redis real-time events  
-- Delivery & Read receipts  
-- Media messaging  
-
----
-
-### 🔹 **Full Stack Blog Platform**
-- Next.js 15 + Prisma  
-- Clerk authentication  
-- Google Docs-style editor  
-- Admin panel + categories  
-
----
-
-### 🔹 **School Management System**
-- Serverless architecture  
-- Alerts + monitoring  
-- Fees + admissions portal  
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-<!-- STATS SECTION -->
-## 📊 **GitHub Analytics — Futuristic Glass Theme**
+## 🧊 Glass Gradient Divider
 
-<div align="center">
+<img src="https://github.com/kyechan99/capsule-render/blob/master/src/Type/fill/transparent.svg" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tiwari-ankit-9519&show_icons=true&theme=react&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00D9FF" height="170"/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tiwari-ankit-9519&theme=react&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="170"/>
+## 🛸 Let's Connect
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwari-ankit-9519&layout=compact&theme=react&hide_border=true&bg_color=00000000&title_color=00D9FF" height="170"/>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" width="50"/></a>
+</p>
 
-</div>
+<br/>
 
----
+<h2 align="center">✨ Thanks for visiting ✨</h2>
 
-<!-- ACTIVITY -->
-## 🔮 **Contribution Graph (Glow Edition)**
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tiwari-ankit-9519&theme=react-dark&hide_border=true&area=true&custom_title=Ankit%20Tiwari%20Activity%20Graph&radius=8" />
-</div>
-
----
-
-<!-- QUOTE -->
-## ✨ **Mindset**
-> _“Great products are built by those who dare to imagine them.”_
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=00D9FF,0077B5,bc02e4&section=footer" />
-
-### Thanks for visiting 🚀  
-**Let’s build something extraordinary.**
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
